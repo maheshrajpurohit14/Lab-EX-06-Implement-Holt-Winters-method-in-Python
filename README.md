@@ -1,9 +1,9 @@
 # Lab-EX-06-Implement-Holt-Winters-method-in-Python
 
-# AIM:
+## AIM:
 To implement the Holt Winters Method Model using Python.
 
-# ALGORITHM:
+## ALGORITHM:
 1. You import the necessary libraries
 2. You load a CSV file containing daily sales data into a DataFrame, parse the 'date' column as datetime, set it as index, and perform some initial data exploration
 3. Resample it to a monthly frequency beginning of the month
@@ -12,7 +12,7 @@ trend/seasonality
 5. Split test,train data,create a model using Holt-Winters method, train with train data and Evaluate the model predictions against test data
 6. Create teh final model and predict future data and plot it
 
-# PROGRAM: 
+## PROGRAM: 
 
 
-# OUTPUT:
+## OUTPUT:
