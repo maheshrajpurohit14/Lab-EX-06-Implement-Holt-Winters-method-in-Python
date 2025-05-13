@@ -16,3 +16,7 @@ trend/seasonality
 
 
 ## OUTPUT:
+
+
+## RESULT:
+Thus the program run successfully based on the Holt Winters Method model.
